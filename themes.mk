@@ -70,7 +70,6 @@ PRODUCT_PACKAGES += \
     IconPackKaiAndroidOverlay \
     IconPackKaiSystemUIOverlay \
     IconPackPUIAndroidOverlay \
-    IconPackPUISettingsOverlay \
     IconPackPUISystemUIOverlay \
     IconPackFilledAndroidOverlay \
     IconPackFilledSystemUIOverlay \
