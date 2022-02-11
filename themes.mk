@@ -53,6 +53,10 @@ PRODUCT_PACKAGES += \
     FontSamsungOneSourceOverlay \
     FontSonySketchSourceOverlay \
     FontHarmonySansOverlay \
+    FontGrandHotelSourceOverlay \
+    FontLemonMilkSourceOverlay \
+    FontLinotteSourceOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontSurferSourceOverlay
 
 # Icons
