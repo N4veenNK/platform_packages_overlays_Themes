@@ -73,8 +73,6 @@ PRODUCT_PACKAGES += \
     IconPackSamSystemUIOverlay \
     IconPackKaiAndroidOverlay \
     IconPackKaiSystemUIOverlay \
-    IconPackPUIAndroidOverlay \
-    IconPackPUISystemUIOverlay \
     IconPackFilledAndroidOverlay \
     IconPackFilledSystemUIOverlay \
     IconPackRoundedAndroidOverlay \
