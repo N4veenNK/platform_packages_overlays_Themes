@@ -94,6 +94,7 @@ PRODUCT_PACKAGES += \
     IconShapeTaperedRectOverlay \
     IconShapeTeardropOverlay \
     IconShapeVesselOverlay \
+    RohieIconMeowOverlay \
     IconShapeRoundedHexagonOverlay
 
 # Signal / WiFi Icons
