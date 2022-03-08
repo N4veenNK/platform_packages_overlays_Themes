@@ -103,6 +103,8 @@ PRODUCT_PACKAGES += \
     BarsWiFiOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
+    IOSSignalOverlay \
+    IOSWiFiOverlay \
     RoundSignalOverlay \
     RoundWiFiOverlay \
     SneakySignalOverlay \
