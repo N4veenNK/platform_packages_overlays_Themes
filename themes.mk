@@ -101,6 +101,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     BarsSignalOverlay \
     BarsWiFiOverlay \
+    BoxSignalOverlay \
+    BoxWiFiOverlay \
     InsideSignalOverlay \
     InsideWiFiOverlay \
     IOSSignalOverlay \
